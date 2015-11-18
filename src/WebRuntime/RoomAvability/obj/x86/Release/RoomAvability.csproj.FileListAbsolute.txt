@@ -1,0 +1,1 @@
+C:\Users\leona\Documents\sourcetree\VSO\RoomBookerServices\src\WebRuntime\RoomAvability\obj\x86\Release\RoomAvability.csprojResolveAssemblyReference.cache
